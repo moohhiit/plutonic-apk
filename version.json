@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.2.0/Plutonic",
-  "releaseNotes": "Update Chat UI\r\nLocation Permission",
-  "sha256": "c1b7e515616fac727a8a2db571d3a4d050b63cad582441579555db1b537602ab"
+  "version": "1.2.1",
+  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.2.1/Plutonic",
+  "releaseNotes": "Update UI \r\nAdd Notification",
+  "sha256": "9dceb5b092705ced4dbe1c7ba30d2d7669709c703e971f1de03baaa42a9e78f5"
 }
