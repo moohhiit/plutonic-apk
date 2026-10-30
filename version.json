@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.2.1/Plutonic",
-  "releaseNotes": "Update UI \r\nAdd Notification",
-  "sha256": "9dceb5b092705ced4dbe1c7ba30d2d7669709c703e971f1de03baaa42a9e78f5"
+  "version": "1.3.2",
+  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.3.2/Plutonic",
+  "releaseNotes": "Share Photos \r\nShare Documents \r\nStickers",
+  "sha256": "3136721ab6a794c60d7ab8ad1a0992f77a49b38f6faaf0d137ad479490d211be"
 }
