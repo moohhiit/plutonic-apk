@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.3.2/Plutonic",
-  "releaseNotes": "Share Photos \r\nShare Documents \r\nStickers",
-  "sha256": "3136721ab6a794c60d7ab8ad1a0992f77a49b38f6faaf0d137ad479490d211be"
+  "version": "1.4.2",
+  "apkUrl": "https://github.com/moohhiit/plutonic-apk/releases/download/v1.4.2/Plutonic",
+  "releaseNotes": "Update Chat UI and also manage session",
+  "sha256": "867ea72c0cfa32fc9a353ab38c457ec8d5eba24b8fd364a34402bd38565b20f7"
 }
